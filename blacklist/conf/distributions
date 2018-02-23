@@ -1,0 +1,7 @@
+Origin: britannic
+Label: britannic github
+Suite: stable
+Codename: wheezy
+Architectures: mips mipsel
+Components: main
+Description: Debian MIPS/MIPSEL packages hosted on britannic's github repository
