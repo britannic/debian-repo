@@ -2,4 +2,4 @@
 
 ## Private Debian repository
 
-* Provides a repository for britannic debian software packages
+* Provides a repository for britannic's debian software packages
