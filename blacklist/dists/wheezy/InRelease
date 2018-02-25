@@ -5,45 +5,45 @@ Origin: britannic
 Label: britannic github
 Suite: stable
 Codename: wheezy
-Date: Sun, 25 Feb 2018 17:50:31 UTC
+Date: Sun, 25 Feb 2018 18:03:24 UTC
 Architectures: mips mipsel
 Components: main
 Description: Debian MIPS/MIPSEL packages hosted on britannic's github repository
 MD5Sum:
- caa61acfdc929d0f6352a286a4ecfc2d 654 main/binary-mips/Packages
- 49f2501412dc3a3be758fbfb6432c0cb 450 main/binary-mips/Packages.gz
+ c5bc638995315fe9ab9aa8f75ce135a3 654 main/binary-mips/Packages
+ 112f168f2361d9e99056bf77d6f01284 451 main/binary-mips/Packages.gz
  da982561d4688fdff3101dee01119fc0 174 main/binary-mips/Release
- 5d2453db1648cb0c038c8bcc678f8d48 658 main/binary-mipsel/Packages
- 20d2ace8a101a640de6bf9104369956c 452 main/binary-mipsel/Packages.gz
+ 81f676fde5ac1629b1d65ee4dcfd80ed 658 main/binary-mipsel/Packages
+ f8683773b61cfc7f7bb715086d30c081 452 main/binary-mipsel/Packages.gz
  6645ee16842132fb7b414073e10d1b9a 176 main/binary-mipsel/Release
 SHA1:
- 8da8a32cd2859279bb42b16a21b76337545f163b 654 main/binary-mips/Packages
- 6026c69ba82e4b48f8bb5eecc8627dc4ae041341 450 main/binary-mips/Packages.gz
+ 3789f512c6b29541092de736787e5a7a2da7e555 654 main/binary-mips/Packages
+ ddb42bbd1429adf2a0f96dd4cebe31329d274c18 451 main/binary-mips/Packages.gz
  f33094a64320ef66732a0879a33d0a3f1258be93 174 main/binary-mips/Release
- 02ecbf04f4c17f713477def3459c93b9153b7c15 658 main/binary-mipsel/Packages
- 038914bdd4a00d8cac70601b711d9063f4d8ae7e 452 main/binary-mipsel/Packages.gz
+ 41774bd8913c6a1ac17df9438cc515fe1a3f2068 658 main/binary-mipsel/Packages
+ e8bce2978214ebdf288d64ebf42b27ce4820edef 452 main/binary-mipsel/Packages.gz
  d624221bec64f657672f508936eac2888568febc 176 main/binary-mipsel/Release
 SHA256:
- b8c9fdd7edd634261a1a246de7a27fe678b801988a0353341178b2035853266f 654 main/binary-mips/Packages
- 352e4403d0ae4ae00d4a44833d7e1e83a377ed26eb284ac75cb85d5c059f320a 450 main/binary-mips/Packages.gz
+ 07d20ad70aa57a0b19c97d6897ce5b07dd5e49f1484283c6bfdb36661cab9396 654 main/binary-mips/Packages
+ 3c8f6e0d1c26c840ac99cae5052476783cc8b892420d96a5295e60c12d989c2a 451 main/binary-mips/Packages.gz
  c6f62dfe2f130d77566021157b31474e4f681440b649547e6135afbf96abf5fa 174 main/binary-mips/Release
- b7d2d013519746cbb082eb903db6441f81c693121609eb60bcf2905e086537a5 658 main/binary-mipsel/Packages
- 2c57b78eecdaa616baacf105db941f9766f73810387f34527c9f1548852c39c0 452 main/binary-mipsel/Packages.gz
+ 1da8bfb1de0cdbad2041a8dabb38275e7d7ad6a6fba7e9955c599e030d91c86b 658 main/binary-mipsel/Packages
+ 2c1840b0dd355bed5f4f4c73f306a66b5c62fbb24372ecbe8e3025b8ba7a8ad1 452 main/binary-mipsel/Packages.gz
  cd5caff27ddf61fb9a854e0840df7b743053fffadc8c145b22136e5f00952f67 176 main/binary-mipsel/Release
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAEBCAAGBQJakvdoAAoJEKmK6mtSc9UsNWsP/3LbFGfntfdj6XrYZJXLn8Of
-2f2liuJeQXEK5mAk+lotHgSboEp9/mKishPJLPvxw4LkU3dJSJB5bvD2UhHvUz3Q
-wrN9DLLrVbWHsVOlvuE963jfQMMj53pVbInM8N9VKilt9NCGnODt1YWekoPjkDrA
-dboRCUZ7x+E/AjCZy+GKfuc8mHM13L8CJ0SDDZtoJxFvNProvSC2LTQqBrnNqe1n
-5TP07DDap26TseD5h/iqS1Y++hRX7v0MI7fGZgriGQhyQ4PBqPo5fWJyNJMXAMNX
-x+lISrNbmqHcw2Fu616ENJ3Vxu0ubramgxJ/LACEoP/+xkBaUFK08idVeUJ2y1yE
-9hJwwRj+ZjuZ5cMsJ2ndaGpMS5XoJm1JBTha1B+GbRIyUr6JqYmpfJNE2g8+jA6d
-vaBzKeMxRqgOosMWrRbPvJu0HNXeiCWET5TBRwHyg4xY2RMBP2EhNAg9VOwVxg/t
-5xDKLaPy/s4N5PIxi7rwONhLDd/C8qScc/RFg8gw7gM9JvVSrdVluAkcSHxlRs1V
-nnO1GXbWL5VSHnha2qJELngoQRENqfpax01SppovN9OAs/mKcq38oDq0lxlDZ5SI
-BWqcr2PNwFM6Lv3gNzRXhIELDJF9hZvGOYl8C8i/FRsmHgcZLnxTW1twSgWO8MWF
-8Rog6XnXqqvtAteQ6jAB
-=QYRq
+iQIcBAEBCAAGBQJakvptAAoJEKmK6mtSc9Usdn4QAMUPHCNU7lHQeMLtfKP/V/6G
+zAQ8BoZAwoVCnhtBnl8KPPjqo8G8IKPgP8WL0SF0uZnlefgN13d11l1TNNyToJFe
+igH2sFO6lC4cWJnA3Qr1Cv6WnqyN7YdUz0Pdsubh7rNV/b0s2xgmM5JgZulNL8bh
+ICnZ9rYoeJCD/VKNXnphpB4AxtDK5PgkCkK+IK+38XkyPcLt1uPKGxLBTBYg/I55
+PQJhX59cc9V8sJ3HR2zYyktoq7e/0TCuI2f6qvwrEElPe8D8DDoPIdof9/rNcYjZ
+vtPmsdcbju5URiAn7d1v5o4eC8A/+IRzr2tdJHV/lPF4/VuIGy/KW5dzSNT0r+5K
+6b3cNAKn8hYNUkEpuz6rc9PxwDIM0Za6Q7jEJtxF9GbJifDSyp22BHmhaeQsqtFc
+00MhfMJSIAg85aBb5tJJdkBiMzIYkwTArOH1ejuRLV33VBwXAtA61mROclxnWxrA
+Wop2CbRp2zbuiOi0sGlfQqg9Sv2+cVhVcmaAX2hlFIHUpWywjly7Z59ztP5sT0TO
+5F6yaPjb7KUES7wrp1bGWsZRz2aV4TqixoRGgN0M6wXTCYj7TSPVLqGL1M7f9e62
+8KDmYVS2sMiNLRRuV61jk8HRkv1LcM24riBX8QVZ7yO4dlDPXBKLxBVqlGXBHNTt
+kUIAito68ultQQwna+wc
+=syUM
 -----END PGP SIGNATURE-----
