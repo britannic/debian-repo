@@ -1,0 +1,6 @@
+Archive: stable
+Component: extra
+Origin: britannic
+Label: britannic github
+Architecture: mipsel
+Description: Debian MIPS/MIPSEL packages hosted on britannic's github repository
