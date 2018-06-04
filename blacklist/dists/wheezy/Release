@@ -2,7 +2,7 @@ Origin: britannic
 Label: britannic github
 Suite: stable
 Codename: wheezy
-Date: Mon, 04 Jun 2018 18:28:59 UTC
+Date: Mon, 04 Jun 2018 20:05:24 UTC
 Architectures: mips mipsel
 Components: main extra
 Description: Debian MIPS/MIPSEL packages hosted on britannic's github repository
