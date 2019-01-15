@@ -154,10 +154,10 @@ Homepage: https://github.com/britannic/${exe}
 Priority: extra
 Section: default
 Filename: pool/main/e/edgeos-pixelserv/edgeos-pixelserv_1.0.5_mipsel.deb
-Size: 1710376
-SHA256: 8204fa61bf54eb9702dce2a2e468763cc8658d139a0f0a4af44f8936d69f2dbb
-SHA1: 4badc039823281bac80a2cb6c227be92aa49ecc6
-MD5sum: 1155a894273127035842ae314facf145
+Size: 1710456
+SHA256: 5fc052772a1f5cf693cb82e0fdc0a019ca37155cd2fe17a922cac8aa634e242f
+SHA1: 4eccd452fad8fc8fda5c6dc9b054e49c176a1988
+MD5sum: 9c36dba73f4d88bd9150c9ae56d91cc5
 Description: Installs an EdgeOS pixel server and init.d service to manage it
 
 Package: edgeos-pixelserv
