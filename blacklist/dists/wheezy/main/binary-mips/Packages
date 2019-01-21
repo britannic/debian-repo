@@ -1,4 +1,22 @@
 Package: edgeos-dnsmasq-blacklist
+Version: 1.1.6.8
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+Architecture: mips
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Installed-Size: 5488
+Provides: edgeos-dnsmasq-blacklist
+Homepage: https://github.com/britannic/blacklist
+Priority: extra
+Section: default
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.1.6.8_mips.deb
+Size: 1921674
+SHA256: af11049d94b5b52c51ecec72d17758f6d68960d26e583e0ace524dba1f023929
+SHA1: 52f01e6875338dff7843ffd28993c8c91d78c053
+MD5sum: 2f79702c07d41e70ce31ba68cbea42b9
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+
+Package: edgeos-dnsmasq-blacklist
 Version: 1.1.6.7
 License: https://opensource.org/licenses/BSD-2-Clause
 Vendor: Helm Rock Consulting
@@ -141,24 +159,6 @@ SHA256: 9b928fd8c07055858629dded5343de0f2919e4fef35829ea3f58d089b47b091e
 SHA1: 50140a5479757f504cb193c23b6e26f4b0615d5b
 MD5sum: 18a0a145e4531c5f3cbfd3d9958b6ac4
 Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
-
-Package: edgeos-pixelserv
-Version: 1.0.5
-License: https://opensource.org/licenses/BSD-2-Clause
-Vendor: Helm Rock Consulting
-Architecture: mips
-Maintainer: @helmrock.com
-Installed-Size: 4908
-Provides: provides
-Homepage: https://github.com/britannic/${exe}
-Priority: extra
-Section: default
-Filename: pool/main/e/edgeos-pixelserv/edgeos-pixelserv_1.0.5_mips.deb
-Size: 1744900
-SHA256: bd845ca2c2e6c7b0327c2464bf91e5d9244020c321010702ec0a8a8ff44dd986
-SHA1: d86d98c4866acbc978d9e3433ed0b1be609ad754
-MD5sum: dd0b777b32a7ac598aa3cc02f0cbbac5
-Description: Installs an EdgeOS pixel server and init.d service to manage it
 
 Package: edgeos-pixelserv
 Version: 1.0.4
