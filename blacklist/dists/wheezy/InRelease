@@ -5,16 +5,16 @@ Origin: britannic
 Label: britannic github
 Suite: stable
 Codename: wheezy
-Date: Mon, 04 Feb 2019 00:48:05 UTC
+Date: Mon, 04 Feb 2019 01:33:44 UTC
 Architectures: mips mipsel
 Components: main extra
 Description: Debian MIPS/MIPSEL packages hosted on britannic's github repository
 MD5Sum:
- 620d7551cce8f97a598a179388f16844 8124 main/binary-mips/Packages
- c5ffab31a16fe8d4d92d63ae27dd1893 1709 main/binary-mips/Packages.gz
+ 0fd8d3f2bb9959abf200924b09e71240 8828 main/binary-mips/Packages
+ ee2c08383e4b2ca0635faa71e5c87d5e 1812 main/binary-mips/Packages.gz
  da982561d4688fdff3101dee01119fc0 174 main/binary-mips/Release
- 98c7009948edc5dc0de837a3ad00501d 8172 main/binary-mipsel/Packages
- 43b244d45f220bae0c991c12a827eb95 1711 main/binary-mipsel/Packages.gz
+ a230eff67603e2fa259c70c21b9fbad8 8880 main/binary-mipsel/Packages
+ 8cb2a15efe2cfcc1107cb05f7e02f6f1 1816 main/binary-mipsel/Packages.gz
  6645ee16842132fb7b414073e10d1b9a 176 main/binary-mipsel/Release
  d41d8cd98f00b204e9800998ecf8427e 0 extra/binary-mips/Packages
  7029066c27ac6f5ef18d660d5741979a 20 extra/binary-mips/Packages.gz
@@ -23,11 +23,11 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 extra/binary-mipsel/Packages.gz
  f3544d6b7eceb47518cec959699dbdda 177 extra/binary-mipsel/Release
 SHA1:
- e048b879f93904da30846a41b23129f1349f27cf 8124 main/binary-mips/Packages
- b2b01816f95c85104a0b65a759ff8a0a49ed8720 1709 main/binary-mips/Packages.gz
+ ad3e88763311e476fbd8e223c69bb977629ef571 8828 main/binary-mips/Packages
+ d61748055c4877395e08dd37580eca88560d5abe 1812 main/binary-mips/Packages.gz
  f33094a64320ef66732a0879a33d0a3f1258be93 174 main/binary-mips/Release
- b92b862f5b564cd220a64874b5255da55d162285 8172 main/binary-mipsel/Packages
- 04926aca42aadd195ddc310472b81a25ddad387a 1711 main/binary-mipsel/Packages.gz
+ 47108d156a80c86b5a0330ae8092fa245f4a1ed5 8880 main/binary-mipsel/Packages
+ 8810c09772e9edb3280bbf5aa5cac292708bf3e8 1816 main/binary-mipsel/Packages.gz
  d624221bec64f657672f508936eac2888568febc 176 main/binary-mipsel/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 extra/binary-mips/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 extra/binary-mips/Packages.gz
@@ -36,11 +36,11 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 extra/binary-mipsel/Packages.gz
  0b154dc906a2e6090ff4a9de3a6b99ac4eaca049 177 extra/binary-mipsel/Release
 SHA256:
- 815e7a1dc1511d3ea3e1c50de27d2bc93b4c161be6f95c9338804c36b523bd96 8124 main/binary-mips/Packages
- cb72ade983e50d4c018aead599d1c6fc0f8df0776d2b2b3accee91f7b6e7161f 1709 main/binary-mips/Packages.gz
+ 2d609528801e53ab0f08eaad47ae1bfe254b154f5f33d39dea21d82d93e2a2e6 8828 main/binary-mips/Packages
+ e71d494de2d7f6f0116be55fd2af834b7debf7b48b668f09a2f3fbf3748af2d6 1812 main/binary-mips/Packages.gz
  c6f62dfe2f130d77566021157b31474e4f681440b649547e6135afbf96abf5fa 174 main/binary-mips/Release
- b0f700aff64d21d9a1232f4a3b5ab71af0b2839ab4ad7fe703fd47150fe2a53f 8172 main/binary-mipsel/Packages
- 9c6040e6fe841c0dc36dbee7db8fd3fc67ec1fb0ca3312094f6ba9be442733b9 1711 main/binary-mipsel/Packages.gz
+ 7d2355160a8920b64f8358864bb6177fa962fdcaf54f77428eb34d8ae646319d 8880 main/binary-mipsel/Packages
+ b7c90ad32c3d0d324cf661396aaa055c4d8a8ad74a5f95fa3a2dca05a3f10abe 1816 main/binary-mipsel/Packages.gz
  cd5caff27ddf61fb9a854e0840df7b743053fffadc8c145b22136e5f00952f67 176 main/binary-mipsel/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 extra/binary-mips/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 extra/binary-mips/Packages.gz
@@ -51,17 +51,17 @@ SHA256:
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAEBCAAGBQJcV4vGAAoJEKmK6mtSc9Us7o4P/i23Yqzkwwg0CoF1upotR9R5
-Vqn/vVMfWsNRjiKehf8p+FYDPPv1piAnMl+MtaEfugiX44rRudaJfy++ZWavdAhN
-1ptDOSgWTGU3W8wypzLC1rX5M09Y0xKz6SYeQn+4Qmm+khLnj4NM8GynVBAMjtl6
-qYXtwjLPCZKc3ZkzI/QVESNMzu6zUp7FmsYNZ99p9LQZ8Pyxu3Mn9lIAqFd6MyCT
-GPtMfCidE7E0NANlqj8hID7GfR+kMjw2jisjFc5iyYZerbVg0QXOuzRIiAVOdJt8
-e5lcA/n+8O9W/EnlEw36iQ4iTxQz5mfdzshcsLCFEmsrE/7mqrLcrh9Erz7G92sE
-Dx/4sCccBuJRLCY0MWKWfdN/sZ8CBLeCWrj8tOcHGwul0kIn0jR18Vw+8akacEIk
-2anaUZUg3Xg6VpuVzsdwG18VornO3y1USRJU2Vaq/OioBULN3cFwpbdE8YxULRDM
-OI1D2x9xb00S0/b1rWAK3j/QQ1vd6FO1tilwucffXubA5oPLNfNWskVcIfuASfP9
-rd/+z2egXFVuZQfxk3EoVtsbre5bzjGXqXoWVpe6NMd0svRvW+M1hTe1+CqgrRPP
-V96xtAAjV+GfE49N7OAi9vWfasUxQyLs5FRxRCs6lPKGiyT64uGzpMHDl7BceJvM
-EPgZ33HoioSoOMdAuHXs
-=eoH4
+iQIcBAEBCAAGBQJcV5Z5AAoJEKmK6mtSc9Us0AsQALkAOgUf01FHf9gzwo25+fRG
+QFDNjyhpqqGtxUF1iSqNfpuHAXWjl4NOkdQyY7ddrAuxAxeRey8yFErFUHK9Cetu
+GU9kVaX2jaeox5dhTEoSCqlBQW95Zgjl8YmtPf2/azf9flCKq7Fi5nee/Ix8FlhD
+uRsDkTXqVnyjOh4gGosp8A7vwD1rSH79/Rnxnjob6qYueNaHkYhsGnfk4oELKvY6
+73+QgpiYNjOqRQYVpMZ0K0rDbJHO5uMj5DOUYbYpMApN49p2M0hCJPEO7rZJ9Yci
+dP+4hU940NiTU8HH7kuM9jGeNy2sFXZ7lzRLVbrdFAvrJbaa7sPBvEd8q6wDK+i1
+NuSilqamyz04M1HsfJ7k3pauCgcf3LKMEXpMB1NG0SJKIQqhj02hOIqFGDaJgDiP
+B0dcBomQWUA5TY98dHb7RYS1mLlTHIWnd5iVDC+nUEgJtNp863jNmBfHt8mzqIht
+yaYL6x58yrb+BZk/NQ3Cx+9egS7Rv/qdAg41fizl94UIsL3gnfcvEIytglhLcpLB
+GXF67glDl/WNjyOdTDhwH/U4/38SAC3Jd3YkKK+0Y/C16JJKh638mKHxpBlYORd3
+QP9D+D3jdtAq2DZE9BgEEKsUlwAfDiNl73MVMlJPWjtzMtpjWYQuqvlbyMp3zlGg
+XJO020uQVOVqNVcJiSVX
+=jJwQ
 -----END PGP SIGNATURE-----
