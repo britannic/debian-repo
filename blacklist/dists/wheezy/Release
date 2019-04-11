@@ -2,16 +2,16 @@ Origin: britannic
 Label: britannic github
 Suite: stable
 Codename: wheezy
-Date: Mon, 08 Apr 2019 03:09:49 UTC
+Date: Thu, 11 Apr 2019 15:11:23 UTC
 Architectures: mips mipsel
 Components: main extra
 Description: Debian MIPS/MIPSEL packages hosted on britannic's github repository
 MD5Sum:
- 119932e574a3b26a09a48dad21b46ced 10038 main/binary-mips/Packages
- b2ebbb900bc6f5342298de6d90db34d2 2027 main/binary-mips/Packages.gz
+ b5d662e393c78ca6944a4af84aeccc7e 10740 main/binary-mips/Packages
+ c8e2dd6eb80d0709eda3b53c3d97b1ec 2144 main/binary-mips/Packages.gz
  da982561d4688fdff3101dee01119fc0 174 main/binary-mips/Release
- 68c2f20be133a78834c343daa6b5a0c3 10098 main/binary-mipsel/Packages
- ae474ba16ee0a7cdc7e1684a402a68bf 2029 main/binary-mipsel/Packages.gz
+ b72ba61dbad88c272d8d7bc724e31b3a 10804 main/binary-mipsel/Packages
+ 8e4358a0037090777b002e90f6b246d4 2143 main/binary-mipsel/Packages.gz
  6645ee16842132fb7b414073e10d1b9a 176 main/binary-mipsel/Release
  d41d8cd98f00b204e9800998ecf8427e 0 extra/binary-mips/Packages
  7029066c27ac6f5ef18d660d5741979a 20 extra/binary-mips/Packages.gz
@@ -20,11 +20,11 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 extra/binary-mipsel/Packages.gz
  f3544d6b7eceb47518cec959699dbdda 177 extra/binary-mipsel/Release
 SHA1:
- 9b30787044c58b7828625f1dab0ecd90a2b655f4 10038 main/binary-mips/Packages
- eec19b02e6d4eecaf4e5d0d3ba47c93f92ae08b1 2027 main/binary-mips/Packages.gz
+ 64ec583b51930837d4786ba32f9a41a50cbd79da 10740 main/binary-mips/Packages
+ d975208f76afa013a94de83bda2e96d3fe872df8 2144 main/binary-mips/Packages.gz
  f33094a64320ef66732a0879a33d0a3f1258be93 174 main/binary-mips/Release
- e77964bbc22120b590fc3266392d8702a27ad362 10098 main/binary-mipsel/Packages
- f890a6d55d3dfcbce41f99a17e46a23bdd61c5de 2029 main/binary-mipsel/Packages.gz
+ b77143d4678cf3db4bb80a01d227c3ef0e9422ee 10804 main/binary-mipsel/Packages
+ 33e75286d5dafb0caf753e73bddbc19ea7707a91 2143 main/binary-mipsel/Packages.gz
  d624221bec64f657672f508936eac2888568febc 176 main/binary-mipsel/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 extra/binary-mips/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 extra/binary-mips/Packages.gz
@@ -33,11 +33,11 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 extra/binary-mipsel/Packages.gz
  0b154dc906a2e6090ff4a9de3a6b99ac4eaca049 177 extra/binary-mipsel/Release
 SHA256:
- 49dd10d3f4b45edfb3ff495fb6a15545df1f93c74f3a9819167ae5248fc8896c 10038 main/binary-mips/Packages
- 1434127d63e93f9bd510683e23f351ceb996715e385fb6075284f221db448ab3 2027 main/binary-mips/Packages.gz
+ 75553ef9fc300dac7d8420a411c2917ab986766f92ef13bf82bf584b7cbfc791 10740 main/binary-mips/Packages
+ b341889f4634c808c5064347a8e1d6667778ec3344bdf5d548ef038a4ed750f6 2144 main/binary-mips/Packages.gz
  c6f62dfe2f130d77566021157b31474e4f681440b649547e6135afbf96abf5fa 174 main/binary-mips/Release
- 2516a7e0640a1644e90b2609cc2e05f777ffe639f67ce91337d316df58b4ff84 10098 main/binary-mipsel/Packages
- 54039bce630e1cff76f861f3379c84a8a8623702fb6421cb0addfa6b8fbaed94 2029 main/binary-mipsel/Packages.gz
+ 55db59ff0ddfc2a7d1075febd2ec592b58401a7ed1729eaa283715b395fc5e80 10804 main/binary-mipsel/Packages
+ d296e5e48281d2c5f20fdafe8a0ddf4ed9c9fe82f67daeafe8173df8deea3ac0 2143 main/binary-mipsel/Packages.gz
  cd5caff27ddf61fb9a854e0840df7b743053fffadc8c145b22136e5f00952f67 176 main/binary-mipsel/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 extra/binary-mips/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 extra/binary-mips/Packages.gz
