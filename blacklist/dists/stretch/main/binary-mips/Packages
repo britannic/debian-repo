@@ -4,6 +4,44 @@ Section: default
 Installed-Size: 6092
 Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
 Architecture: mips
+Version: 1.2.4.2
+Provides: edgeos-dnsmasq-blacklist
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.2.4.2_mips.deb
+Size: 2212410
+MD5sum: 982d8a002fa1689d8c875c559f5d8872
+SHA1: d2e6fc6f79cc01c8f0565fd2c5eacd5d6e9a25ac
+SHA256: 3c448ba0d7482b3328f30e607c69c2c53b1f9f4dc1d09ab2bc2d41a5ef7104d7
+SHA512: f03bd0586915f06c29db8c800f8c3da2fd1c4206ef0606f032fe0dbc399935de8d73dd60b924161e2c92f1eadbf0e629efae85e6759257034ea3757157320030
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 6092
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mips
+Version: 1.2.4.1
+Provides: edgeos-dnsmasq-blacklist
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.2.4.1_mips.deb
+Size: 2212432
+MD5sum: db48745d870a4e9522576789845ea3a6
+SHA1: e955bdadc863b01d91a0c191967dc0448df51f7a
+SHA256: eb7337df67bdd4cf542697ed6fd631f4af7eab54c40ebe2f6f08d09987037534
+SHA512: 1957b733097899f80e54289a1848fc5721fb709c37e25316531a0882c49ba44d4151aed9f204d20b9906bb192c61f7089f0073087af6598b398fa6d33d718d6d
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 6092
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mips
 Version: 1.2.4.0
 Provides: edgeos-dnsmasq-blacklist
 Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.2.4.0_mips.deb
