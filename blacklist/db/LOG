@@ -1,0 +1,30 @@
+=============== Nov 21, 2020 (PST) ===============
+17:52:03.345129 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:52:03.396878 db@open opening
+17:52:03.401408 version@stat F·[] S·0B[] Sc·[]
+17:52:03.427228 db@janitor F·2 G·0
+17:52:03.427319 db@open done T·30.342302ms
+17:52:03.428235 db@close closing
+17:52:03.428412 db@close done T·174.507µs
+=============== Nov 21, 2020 (PST) ===============
+17:52:03.456783 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:52:03.458148 version@stat F·[] S·0B[] Sc·[]
+17:52:03.458193 db@open opening
+17:52:03.458303 journal@recovery F·1
+17:52:03.459023 journal@recovery recovering @1
+17:52:03.459753 version@stat F·[] S·0B[] Sc·[]
+17:52:03.512280 db@janitor F·2 G·0
+17:52:03.512335 db@open done T·54.121296ms
+17:52:03.512401 db@close closing
+17:52:03.512505 db@close done T·102.648µs
+=============== Nov 21, 2020 (PST) ===============
+17:52:03.537743 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:52:03.539051 version@stat F·[] S·0B[] Sc·[]
+17:52:03.539093 db@open opening
+17:52:03.539194 journal@recovery F·1
+17:52:03.539881 journal@recovery recovering @2
+17:52:03.540552 version@stat F·[] S·0B[] Sc·[]
+17:52:03.588486 db@janitor F·2 G·0
+17:52:03.588544 db@open done T·49.431133ms
+17:52:03.589035 db@close closing
+17:52:03.589201 db@close done T·164.402µs
