@@ -1,0 +1,19 @@
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 5068
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.2.4.4
+Provides: edgeos-dnsmasq-blacklist
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.2.4.4_mipsel.deb
+Size: 1934112
+MD5sum: 19349c85574e6a2b1a42aca720cbe218
+SHA1: a6196c215ce2af0284544d1d15ab5b300a0e00a6
+SHA256: d7a8b00d82bbed2ffa07b59dca8dc1d7429414c0f825e746b1a25bd426a8c684
+SHA512: 6c4a91181b97834893eb4d9117084a8fbada99d22b230b5918774111d5f9d7d1c6321a2289c5e98c76d8b3610e0a05db0f1901a745d3f059dac145db0be61756
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
