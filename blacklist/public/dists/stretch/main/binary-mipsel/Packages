@@ -1,0 +1,589 @@
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 5068
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.2.4.4.1
+Provides: edgeos-dnsmasq-blacklist
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.2.4.4.1_mipsel.deb
+Size: 1934266
+MD5sum: ee89b94208413f53cc6f13f6205a222e
+SHA1: 8a575bc8bfdd1ec99b5156eeffedd4a80b6a39d4
+SHA256: 8259ebd7115cfa605cc95252f8394e5557782b218a950ea0302ce0744f1fdd46
+SHA512: 687b6500fc6e69091998b09219ef65e8f7f3e218d3f9ab1d1add693ff65732bb1cfc71f968bc21a5c5c58cc66ca76c6a2e0d90d310d83f8bb76f49fe9b135241
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 5068
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.2.4.4
+Provides: edgeos-dnsmasq-blacklist
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.2.4.4_mipsel.deb
+Size: 1934112
+MD5sum: 19349c85574e6a2b1a42aca720cbe218
+SHA1: a6196c215ce2af0284544d1d15ab5b300a0e00a6
+SHA256: d7a8b00d82bbed2ffa07b59dca8dc1d7429414c0f825e746b1a25bd426a8c684
+SHA512: 6c4a91181b97834893eb4d9117084a8fbada99d22b230b5918774111d5f9d7d1c6321a2289c5e98c76d8b3610e0a05db0f1901a745d3f059dac145db0be61756
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 5708
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.2.4.2
+Provides: edgeos-dnsmasq-blacklist
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.2.4.2_mipsel.deb
+Size: 2198638
+MD5sum: 98cb81dd945bf96ec7a71d04867f30cc
+SHA1: 79bae88e5f362ac658389871d40eb09be7939a4a
+SHA256: 8f24fcf9430725d10afc4397d9204d182da4d9f452c0e37dcc2ad292062f8f3e
+SHA512: d80de65f47b0ca0961b424485401838bc6c4fc12b22b4a03a2d1d199ebe41f42f635264c1f5f25b5c1350ed67c21bd05eaf3e9525167bd6872fe0e651710dcdf
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 5708
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.2.4.1
+Provides: edgeos-dnsmasq-blacklist
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.2.4.1_mipsel.deb
+Size: 2198646
+MD5sum: ac6f5f5e36433271ddaba8c388d9d2f1
+SHA1: 9f12a0f8c05d3d4d04f99534cf0e0151ed913217
+SHA256: 96d1678f8bcff9bc68b9ee0987dd9f8e55c7100de3292b0d4a654521b5ae419b
+SHA512: 30ee401d067d5ac87890567ea25fa1967a61269f87b9a951472abfd50107645a40c8adad94ddb8cee2c5769231989d6efeaabb0f2ee390b65751ac675d4eaab6
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 5708
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.2.4.0
+Provides: edgeos-dnsmasq-blacklist
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.2.4.0_mipsel.deb
+Size: 2198696
+MD5sum: f822d1ec1d24b3c012b41eba70ec7122
+SHA1: a8dea5028c85e28bc10c917b582a0424f759492b
+SHA256: 41fb2a27432af2c36f5f401cf83573004c687870249585b88096ab322e651526
+SHA512: 984967489deea4b0be328df7e45f9033001b94bb46c02e9541fced8309f1bf1ebac1752982826e70dcb66076cec226abeb8f16a623e7ff98e65c7d28c5956384
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 5708
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.2.3.7
+Provides: edgeos-dnsmasq-blacklist
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.2.3.7_mipsel.deb
+Size: 2198572
+MD5sum: b3113479f898eb548edda9fd331058ea
+SHA1: ad2c011b996a7a84682b5c51c9d24775af873af8
+SHA256: d80f380c6b43a6a03189f6ed5a732845ea485b4451b3ffd8dd07f6f4cd486211
+SHA512: f3c403ee975365f4bef0779501ddf913b71b18c8f22b93a5fbbf11516fb8869c0fb03d0e8a8cda74f0beeda68bb091dc3ba487bf744115ce9f61563f215b50a3
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 5708
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.2.3.6
+Provides: edgeos-dnsmasq-blacklist
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.2.3.6_mipsel.deb
+Size: 2198570
+MD5sum: 3c7c6eef070c6d632f3a72a8814bbc39
+SHA1: 296d96c67eac03868ad4643e13346544fae4a066
+SHA256: 6e6293876b9a1a0ca1b91da347decbe83887a8f3684613c51137f30e46d7932c
+SHA512: 4a9366d6879fdf27cf4852c46fbd206fd15f0cd31ee9a042691e36b134af7c6de3dc03d14bf42545a3d8f027d4e158e01c8eb058bffe9ceebc8f43f3dc818027
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 5709
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.1.8.3
+Provides: edgeos-dnsmasq-blacklist
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.1.8.3_mipsel.deb
+Size: 2196562
+MD5sum: 7a60398face58f60d069b2dc10d55447
+SHA1: 7e8a4570b07426f285f7f3dadfea0aeac8e5af94
+SHA256: c44a10ca52add53df8d78252013f303d0f0d4d49c459f2ed3698386f88eacb65
+SHA512: 2522cbbeb5215303aac5d36a2017eb944da02dc37aa63a8c1bdfd6cf74eeedb4f6f0ed56eb0965c50715553ca7437ab53717af2001daf8e39049466c4351e0ed
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 5709
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.1.8.1
+Provides: edgeos-dnsmasq-blacklist
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.1.8.1_mipsel.deb
+Size: 2172814
+MD5sum: f5463607e831363455a8e6e5a025f01d
+SHA1: 3642c7299e5a74b7710c28466aed54b9e51a0e94
+SHA256: 0f683ed0bbf8d8959e73854d93599ae74c2d4cccfd62ca3651b965672cf3af98
+SHA512: b16c1ea39ec32a52ea9748a1567b9b5a065db6a1d5a14d9f6fa96e5a59982c4cd8d1d2fdbb317defe7e8d2b8b697b0ae75fdcd0d474f6be90802455545590568
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 5709
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.1.8.0
+Provides: edgeos-dnsmasq-blacklist
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.1.8.0_mipsel.deb
+Size: 2172834
+MD5sum: f2d65f52a1c383cea701e92493f1b83f
+SHA1: d9b04d43327c87617f9bce4fbd5c43728f2c3a9a
+SHA256: c4aecca9eff860dd84a6f0756ccf8fb9460d840e94539bf8b06c1f4d60dd1bd5
+SHA512: 229fc37545b541f6794303fb92d5125cb7a4b859b9433dc0e67c0e5511f50ce6eda1acc35e52e3724078de7867688da178dd38c2e21c5fd15d7fee684e4f019c
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 5709
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.1.7.8
+Provides: edgeos-dnsmasq-blacklist
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.1.7.8_mipsel.deb
+Size: 2171626
+MD5sum: 8fe2e9047633f402203106c4520f27b0
+SHA1: 0dfd56f2f1c11bbc90daa84b69a58934be44b232
+SHA256: 4048fd5559237bd83d2cbc3d71bf228b087f4abc7f2d82a47eea97b7f5596243
+SHA512: 89df46563f191bed641a68ab11cb588d80354a0a7b02d7c868eb586ba5c3b970901122080bc860bdaed1f1eea830b1e2d26f6e99203564ead85879b1608f476e
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 5709
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.1.7.7
+Provides: edgeos-dnsmasq-blacklist
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.1.7.7_mipsel.deb
+Size: 2171628
+MD5sum: 6c6eb73c2ab5195f1b975708221297ad
+SHA1: 9be7d7709f4b089d9ec71e76506069970ec68b3c
+SHA256: bb9a39af08e487c47ed7d08e45e13edfca6c3b3018d95538397a448cb00df5ea
+SHA512: be0fd27df7b535c0d86e5ea24062d5a42eff9248ca28978468a6c27efd690ea8c2bda641aad8ae5b60836bc8882a90837b7264c6ff4d5eabf259db45ffc0aa7f
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 5589
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.1.7.5
+Provides: edgeos-dnsmasq-blacklist
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.1.7.5_mipsel.deb
+Size: 2084336
+MD5sum: 99a11118407b484b669c3b3ef82c4cda
+SHA1: e4873486af0c79bb020bba73f753dccf8f3c9b5e
+SHA256: 62e7e18c72ddc7c530cebed92d4fe9c31598d5935c5f90c9fd534544688eed4c
+SHA512: 71c50504b1bce578400a933cbd887bae50f6efaabe80c2a8e54d4c234622ed9bf77a1034a8c668504040de7fdf2437429971cae38fc8bea70b46534346345cdd
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 5589
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.1.7.4
+Provides: edgeos-dnsmasq-blacklist
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.1.7.4_mipsel.deb
+Size: 2084324
+MD5sum: 2a17ce9ed23be534ad530da78f949d53
+SHA1: 2debe968d0cd5063f320c9646bddb49f061621dc
+SHA256: 4072271c972173cf9d5873c5a025f5a5f7ac3ee2f0e3755a46089d890ad8aba0
+SHA512: 286bac258d8e675a0b704ae737502eb67fca15b912eccf2fa527affad34d7bb98da87c9d84bedb9d64b1ec581f00fe482d6000bc0638d22298aba4636e0f0bc7
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 5072
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.1.6.10
+Provides: edgeos-dnsmasq-blacklist
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.1.6.10_mipsel.deb
+Size: 1880466
+MD5sum: 0d41657cd7aaf68ff57467036cf8b32b
+SHA1: cdff4a7b251178ad8edb7ca1c0b0130768595f19
+SHA256: 0f0dbefd1138410ea636786e71fab70c6a07e0755d1c08cc1af122376da8f55a
+SHA512: ccfcca09ff47062c726580752d6d705a93efc51af5fbc438b42d8f72f3cc12e268acc193e2ddc16ee021b4f72edafe6be112007cec29cbc491c0224356b4cd5a
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 5072
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.1.6.9
+Provides: edgeos-dnsmasq-blacklist
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.1.6.9_mipsel.deb
+Size: 1880442
+MD5sum: dc2b4a1f3a8a5b697f7e3212241702b1
+SHA1: fffd1f250e1ff60c7d7f52b0379bd40e0f3f8e04
+SHA256: 48b618c943e9e031aeaa6be9a28a5ad4691a007c8fa9cbcaffca7f68d169b2d0
+SHA512: 435789371e317a4ba5f9360cc40844cad8a9a137b7af138d7657c1e7873342defb3a66090897c33fcb564176d1ab423c33960762a8baa11d89c0ca03b5d34b0a
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 5072
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.1.6.8
+Provides: edgeos-dnsmasq-blacklist
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.1.6.8_mipsel.deb
+Size: 1880432
+MD5sum: ce4d237115db8a827ec0dd2e2e9b3092
+SHA1: 613a2d7a147921b03712761a4c1a14cbc4b934f0
+SHA256: 190716dbf8207b3d633fa3b98c67bfd77f38cd237b183a319cd56280cd068562
+SHA512: afedb4de6aebd104e462ae2db092d918790af197124582a2431140e6f0354fd70718e6bbb80aae069a9411ae98f87b2bd912ca5fc39d8ffa5010ddfacd9e56fe
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 5072
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.1.6.7
+Provides: edgeos-dnsmasq-blacklist
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.1.6.7_mipsel.deb
+Size: 1880412
+MD5sum: ec2f6e33d1c5866dd79cf9e8c9d36cd6
+SHA1: 590c94f437903d22ada20a345d0dcbb1dbd6007c
+SHA256: bcde38c262220cdb5eb33c5ec5cbcb4c9b7ba8a12b7ce8390f14be50f37cade8
+SHA512: 315f694d508bbbc6b86bff2a56ecfcb225f28d25a9d638a1abda4b6a698a75f7d6a3188c103d45d8b031ae37ef1a6f6ccc119d6118f5acdc19910984129a5c77
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 4368
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.1.6.3
+Provides: edgeos-dnsmasq-blacklist
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.1.6.3_mipsel.deb
+Size: 1592564
+MD5sum: 617ec80182ecca018e30c26cebeb69b8
+SHA1: b790f8cdfff9addf0afad659e3d15e6b79f07432
+SHA256: 02155176cc4ffd44025f88f6599a530923cca714c6b4fc60c837dd4fc229a871
+SHA512: 20f588d180e82e15563465db5c6a609cc196f2cec2a41394b47d8cbde4935952db4499b3781627bd4d8c7dac8752cd63fc0708d8713cc1f04f36fa0568bd19bd
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 4368
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.1.6.1
+Provides: edgeos-dnsmasq-blacklist
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.1.6.1_mipsel.deb
+Size: 1586558
+MD5sum: 811880ec8a9bcf60ee10189b0b2e9b3a
+SHA1: 3174efcb625555ab8629ed12d5ccf1be2dbf7752
+SHA256: 2af29f6ed0a59217046479e1010353d2f99be8a37ba8ecad8132d35ca66925cf
+SHA512: 122c397eb935ab6e210b9598e9f2ecf00d50996e669a395a0c7c1824d7c6a7fb4b6cd6de44e951a41ac9d5ef0fdcc2330ee49f08ecb11e38d3b6df357d750fcd
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 4368
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.1.4
+Provides: adds
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.1.4_mipsel.deb
+Size: 1586470
+MD5sum: 3cd6cb40306dc57c97549ceb1afd17b6
+SHA1: ae11d21f19297bf52e977a91245941a01b06963b
+SHA256: b08f2f524612e35bbd8a9963a755f5f1392a68c4c58577a56da3fb600eacf28f
+SHA512: 0c57579d777821a96d2b9fe595793d90c43e344993d83d24cdc7fa1428c511d59ba981b06998708768fbdafa1e836c3b4fb75659cf96a16feadf42800e0275eb
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 4368
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.1.3
+Provides: adds
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.1.3_mipsel.deb
+Size: 1587746
+MD5sum: 773b353c636c430dc189574efb3a4469
+SHA1: b7475ac156c49d99a8c442bd22320a5201049cf9
+SHA256: 958136a5a233307f6235013e5ca2701b40e0ecb733aff0c0e0cfa51e937d7bde
+SHA512: f26b9b674fd18d76f5d61eed90d38c0bb3b6fc7987e2edde967b2251427352a9a4113e129fc1f6621a318070f244e6b6c155d05f72d28beb63ed487e9fb711f9
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 4368
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.1.2
+Provides: adds
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.1.2_mipsel.deb
+Size: 1587762
+MD5sum: 94e4bb673748029da800dc0646031cdd
+SHA1: 0a0294bd9261a2e83d772eba7582d566d2e71cc3
+SHA256: 7f508e624740ff32bb0b4373ebda08bc3e8c4c0d478c289c6170559c1eea81cb
+SHA512: 9c91544ce2bb77b56cd07c52a4272704f1a8392fa5c95833b0412e6ef683f5fd4ff6d3f0fe84e764bfacd655e1c975967f71653898287d53c21908dfeb88aa38
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 4368
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.1.1
+Provides: adds
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.1.1_mipsel.deb
+Size: 1587640
+MD5sum: 07847318567d18996fc3509cb6d7749e
+SHA1: 9a5abdb46ee7f7619ff4d3d94db62a6ba69d4201
+SHA256: 4f1350d1a7a9ea57b3f3bc644f45928049f3449938fa3e0848102878ada05a59
+SHA512: 074a08a89ac54837b7c9331953df3d59a372ee34b494029c191870cd965c54b0bea1e51b095070868303fad13eb9f93251ca5fe105334bec2cf1ec77a028572b
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 4368
+Maintainer: edgeos-dnsmasq-blacklist@helmrock.com
+Architecture: mipsel
+Version: 1.1.0
+Provides: adds
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.1.0_mipsel.deb
+Size: 1589568
+MD5sum: b36a42a32689918e93a6a7cf64edd76e
+SHA1: 75a656e7d2df83815e3e5edadb922222c66e4f13
+SHA256: ff6a1465e352f8ce5bb61e3a801b2f7d2149245f313b949ce4a01f99d171b757
+SHA512: 94633cad0482d0ba009e36a440990f5363416f110f33ed28e077e803943108434cb55c2e7ef09cae909a34b28a427953c2adfb91bebe1c3cd61aaaa46de781f6
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-dnsmasq-blacklist
+Priority: extra
+Section: default
+Installed-Size: 4368
+Maintainer: @helmrock.com
+Architecture: mipsel
+Version: 1.0.10
+Provides: adds
+Filename: pool/main/e/edgeos-dnsmasq-blacklist/edgeos-dnsmasq-blacklist_1.0.10_mipsel.deb
+Size: 1586306
+MD5sum: 3bcd85f90a9dd28caab53ff883a01984
+SHA1: 6433c4f5a6b08ab699252dec000718e2be21825c
+SHA256: 4f8764e084e64a31441c024b05dc19c50ac36bb94ec10b054433a8e7f83ba9d5
+SHA512: 9160bd5a99d8a876cae539f8c601f676a6b2172ea0a7b0b092acdf7d83f23ab6a56e4eb0f675f562950519ee09beeaae3d9d7b3abf80efc8d503ebd0b5045957
+Description: Adds EdgeOS dnsmasq blacklist configuration templates for "service dns forwarding"
+Homepage: https://github.com/britannic/blacklist
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-pixelserv
+Priority: extra
+Section: default
+Installed-Size: 5132
+Maintainer: @helmrock.com
+Architecture: mipsel
+Version: 1.0.8
+Provides: provides
+Filename: pool/main/e/edgeos-pixelserv/edgeos-pixelserv_1.0.8_mipsel.deb
+Size: 1914126
+MD5sum: b7fa7225de22b57a268c1a2d46de7d16
+SHA1: b5f8e6579f393c26fea9aa00f43a3792eb86627b
+SHA256: 978e6472b84939214834406865fdaddce6f8f2df9b298afcc25ee508caeb78d1
+SHA512: ecf37835f80bf69885ee672d49cba63ea9a121657b3c4d1bed64532386e0d7b4af0ea074d893a23b5ece2e61a397ccce79232cc28694d269e3a1cc6e2206d7ca
+Description: Installs an EdgeOS pixel server and service to manage it
+Homepage: https://github.com/britannic/${exe}
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-pixelserv
+Priority: extra
+Section: default
+Installed-Size: 5132
+Maintainer: @helmrock.com
+Architecture: mipsel
+Version: 1.0.7
+Provides: provides
+Filename: pool/main/e/edgeos-pixelserv/edgeos-pixelserv_1.0.7_mipsel.deb
+Size: 1914080
+MD5sum: 51bf2629f1480d2f05fbac4ddd21021a
+SHA1: a224cb963bcb9af0b4aa7a12935066926a2e7f31
+SHA256: 811b2bf03692b924c032b4cb3aeb654c0cdb77d0bfd0797cdd4e1695b850af03
+SHA512: 346a60a6e8e3d8a81be5491d81592e2e6c3e1d223570142896ce558e505eb4ab4e7238faeeafd84a23031c79fd915a292f3b2f6e9762a60799a2a384785221d1
+Description: Installs an EdgeOS pixel server and service to manage it
+Homepage: https://github.com/britannic/${exe}
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-pixelserv
+Priority: extra
+Section: default
+Installed-Size: 5132
+Maintainer: @helmrock.com
+Architecture: mipsel
+Version: 1.0.6
+Provides: provides
+Filename: pool/main/e/edgeos-pixelserv/edgeos-pixelserv_1.0.6_mipsel.deb
+Size: 1914082
+MD5sum: 193aa000f7ac0670df5aab35c152c5c7
+SHA1: c2eac5865da88ca535a8ce1bc96f8315aaec0ffb
+SHA256: 6c1acf3aaa9ee39637993fff2561de309cf9b4251544fab11fac7e8b3167a391
+SHA512: 2018cb44d86854d53c77678c2aef6d470af4b8b36923d1c80175524f4d366c98e346cb342e0c28ed1b2a298cf66017bcc9d9b79143f982ae7e835e793b4fab3c
+Description: Installs an EdgeOS pixel server and service to manage it
+Homepage: https://github.com/britannic/${exe}
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-pixelserv
+Priority: extra
+Section: default
+Installed-Size: 3979
+Maintainer: @helmrock.com
+Architecture: mipsel
+Version: 1.0.4
+Provides: provides
+Filename: pool/main/e/edgeos-pixelserv/edgeos-pixelserv_1.0.4_mipsel.deb
+Size: 1460060
+MD5sum: 6c8e9608fea952e450fd2c94c069894e
+SHA1: 7ceb7b0889c1896423a13625bf14ca6887b60bab
+SHA256: 197d9159ab5c62bfd035ca7568a0c34bab50a4a59c66a6b57e26e0c3200391b7
+SHA512: 34854d149d63f21c8d96e33518da091898dbeebbbf9cf4cadbc683e037b50c9fcbb8fd4e1664c9f40ab65c2f65b84290463f971f3a866d8be7fd821c1c6d9441
+Description: Installs an EdgeOS pixel server and init.d service to manage it
+Homepage: https://github.com/britannic/${exe}
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
+Package: edgeos-pixelserv
+Priority: extra
+Section: default
+Installed-Size: 3979
+Maintainer: @helmrock.com
+Architecture: mipsel
+Version: 1.0.3
+Provides: provides
+Filename: pool/main/e/edgeos-pixelserv/edgeos-pixelserv_1.0.3_mipsel.deb
+Size: 1460122
+MD5sum: 566686548ca42858e1fb49fb9ef0330b
+SHA1: 12b9d7e64043a3cb196884a69220b40317966bbf
+SHA256: 4eb9d9f541edf7082642a31a5b01de14e1db54da812725eca383a4571e44bf21
+SHA512: e7e4028eeb2ba2dd05f9cd830f2c34d28408b4c6ba0f718a7b16400f268aff5d256b4d2566d80385a3bac6be03a40c3fbcb97184213298768b82df24e144a62e
+Description: Installs an EdgeOS pixel server and init.d service to manage it
+Homepage: https://github.com/britannic/${exe}
+License: https://opensource.org/licenses/BSD-2-Clause
+Vendor: Helm Rock Consulting
+
