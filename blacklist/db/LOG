@@ -559,3 +559,37 @@
 17:15:22.751961 db@open done T·62.029042ms
 17:15:22.932012 db@close closing
 17:15:22.932123 db@close done T·110.709µs
+=============== Dec 16, 2021 (PST) ===============
+17:30:13.511249 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:30:13.512257 version@stat F·[2 1] S·92KiB[2KiB 89KiB] Sc·[0.50 0.00]
+17:30:13.512280 db@open opening
+17:30:13.512373 journal@recovery F·1
+17:30:13.512773 journal@recovery recovering @117
+17:30:13.513452 version@stat F·[2 1] S·92KiB[2KiB 89KiB] Sc·[0.50 0.00]
+17:30:13.557531 db@janitor F·5 G·0
+17:30:13.557581 db@open done T·45.269333ms
+17:30:13.615369 db@close closing
+17:30:13.615504 db@close done T·134.291µs
+=============== Dec 16, 2021 (PST) ===============
+17:30:13.626647 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:30:13.627696 version@stat F·[2 1] S·92KiB[2KiB 89KiB] Sc·[0.50 0.00]
+17:30:13.627718 db@open opening
+17:30:13.627781 journal@recovery F·1
+17:30:13.628097 journal@recovery recovering @119
+17:30:13.649508 memdb@flush created L0@121 N·2 S·590B "xEP..202,v490":"xEP..900,v491"
+17:30:13.649728 version@stat F·[3 1] S·92KiB[3KiB 89KiB] Sc·[0.75 0.00]
+17:30:13.689046 db@janitor F·6 G·0
+17:30:13.689091 db@open done T·61.36275ms
+17:30:13.690348 db@close closing
+17:30:13.690479 db@close done T·124µs
+=============== Dec 16, 2021 (PST) ===============
+17:30:13.702940 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:30:13.703889 version@stat F·[3 1] S·92KiB[3KiB 89KiB] Sc·[0.75 0.00]
+17:30:13.703908 db@open opening
+17:30:13.703976 journal@recovery F·1
+17:30:13.704339 journal@recovery recovering @122
+17:30:13.704953 version@stat F·[3 1] S·92KiB[3KiB 89KiB] Sc·[0.75 0.00]
+17:30:13.744437 db@janitor F·6 G·0
+17:30:13.744480 db@open done T·40.557833ms
+17:30:13.908313 db@close closing
+17:30:13.908446 db@close done T·131.333µs
