@@ -514,3 +514,48 @@
 17:11:58.274256 db@open done T·60.501917ms
 17:11:58.495081 db@close closing
 17:11:58.495210 db@close done T·128.834µs
+=============== Dec 16, 2021 (PST) ===============
+17:15:22.464196 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:15:22.465441 version@stat F·[3 1] S·93KiB[7KiB 86KiB] Sc·[0.75 0.00]
+17:15:22.465470 db@open opening
+17:15:22.465557 journal@recovery F·1
+17:15:22.466083 journal@recovery recovering @107
+17:15:22.488687 memdb@flush created L0@109 N·2 S·886B "xCP..202,v481":"xCP..900,v482"
+17:15:22.488974 version@stat F·[4 1] S·94KiB[8KiB 86KiB] Sc·[1.00 0.00]
+17:15:22.533224 db@janitor F·7 G·0
+17:15:22.533349 db@open done T·67.860875ms
+17:15:22.533418 table@compaction L0·4 -> L1·1 S·94KiB Q·483
+17:15:22.561063 table@build created L1@112 N·422 S·89KiB "C02..deb,v88":"xFP..a39,v310"
+17:15:22.561131 version@stat F·[0 1] S·89KiB[0B 89KiB] Sc·[0.00 0.00]
+17:15:22.599370 table@compaction committed F-4 S-4KiB Ke·0 D·2 T·64.844749ms
+17:15:22.599612 table@remove removed @109
+17:15:22.600082 table@remove removed @106
+17:15:22.600271 table@remove removed @103
+17:15:22.600410 table@remove removed @100
+17:15:22.600539 table@remove removed @99
+17:15:22.601858 db@close closing
+17:15:22.601992 db@close done T·133.791µs
+=============== Dec 16, 2021 (PST) ===============
+17:15:22.614147 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:15:22.615328 version@stat F·[0 1] S·89KiB[0B 89KiB] Sc·[0.00 0.00]
+17:15:22.615351 db@open opening
+17:15:22.615413 journal@recovery F·1
+17:15:22.615649 journal@recovery recovering @110
+17:15:22.635767 memdb@flush created L0@113 N·2 S·590B "xEP..202,v484":"xEP..900,v485"
+17:15:22.636049 version@stat F·[1 1] S·90KiB[590B 89KiB] Sc·[0.25 0.00]
+17:15:22.675775 db@janitor F·4 G·0
+17:15:22.675816 db@open done T·60.45125ms
+17:15:22.676874 db@close closing
+17:15:22.677034 db@close done T·158.417µs
+=============== Dec 16, 2021 (PST) ===============
+17:15:22.688874 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:15:22.689890 version@stat F·[1 1] S·90KiB[590B 89KiB] Sc·[0.25 0.00]
+17:15:22.689921 db@open opening
+17:15:22.689990 journal@recovery F·1
+17:15:22.690460 journal@recovery recovering @114
+17:15:22.711357 memdb@flush created L0@116 N·2 S·2KiB "E05..0fe,v488":"S05..0fe,v487"
+17:15:22.711631 version@stat F·[2 1] S·92KiB[2KiB 89KiB] Sc·[0.50 0.00]
+17:15:22.751916 db@janitor F·5 G·0
+17:15:22.751961 db@open done T·62.029042ms
+17:15:22.932012 db@close closing
+17:15:22.932123 db@close done T·110.709µs
