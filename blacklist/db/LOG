@@ -640,3 +640,38 @@
 17:31:41.864042 table@remove removed @112
 17:31:41.969022 db@close closing
 17:31:41.969106 db@close done T·82.333µs
+=============== Dec 16, 2021 (PST) ===============
+17:36:32.042762 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:36:32.049166 version@stat F·[0 1] S·92KiB[0B 92KiB] Sc·[0.00 0.00]
+17:36:32.049191 db@open opening
+17:36:32.049300 journal@recovery F·1
+17:36:32.049831 journal@recovery recovering @131
+17:36:32.050411 version@stat F·[0 1] S·92KiB[0B 92KiB] Sc·[0.00 0.00]
+17:36:32.090690 db@janitor F·3 G·0
+17:36:32.090747 db@open done T·41.543083ms
+17:36:32.135376 db@close closing
+17:36:32.135558 db@close done T·180.459µs
+=============== Dec 16, 2021 (PST) ===============
+17:36:32.147332 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:36:32.148028 version@stat F·[0 1] S·92KiB[0B 92KiB] Sc·[0.00 0.00]
+17:36:32.148049 db@open opening
+17:36:32.148109 journal@recovery F·1
+17:36:32.148508 journal@recovery recovering @134
+17:36:32.169796 memdb@flush created L0@136 N·11 S·4KiB "Cc4..deb,v507":"xFP..6c9,v514"
+17:36:32.170333 version@stat F·[1 1] S·96KiB[4KiB 92KiB] Sc·[0.25 0.00]
+17:36:32.210176 db@janitor F·4 G·0
+17:36:32.210755 db@open done T·62.690959ms
+17:36:32.212191 db@close closing
+17:36:32.212346 db@close done T·154.542µs
+=============== Dec 16, 2021 (PST) ===============
+17:36:32.223913 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+17:36:32.225020 version@stat F·[1 1] S·96KiB[4KiB 92KiB] Sc·[0.25 0.00]
+17:36:32.225049 db@open opening
+17:36:32.225147 journal@recovery F·1
+17:36:32.225510 journal@recovery recovering @137
+17:36:32.246015 memdb@flush created L0@139 N·2 S·2KiB "E84..c3b,v520":"S84..c3b,v519"
+17:36:32.246252 version@stat F·[2 1] S·98KiB[6KiB 92KiB] Sc·[0.50 0.00]
+17:36:32.285961 db@janitor F·5 G·0
+17:36:32.286001 db@open done T·60.93975ms
+17:36:32.600748 db@close closing
+17:36:32.600870 db@close done T·121.625µs
