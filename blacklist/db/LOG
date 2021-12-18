@@ -1158,3 +1158,45 @@
 22:16:55.837562 table@remove removed @222
 22:16:55.948307 db@close closing
 22:16:55.948363 db@close done T·55.459µs
+=============== Dec 17, 2021 (PST) ===============
+22:19:57.538103 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:19:57.538964 version@stat F·[0 1] S·114KiB[0B 114KiB] Sc·[0.00 0.00]
+22:19:57.538980 db@open opening
+22:19:57.539031 journal@recovery F·1
+22:19:57.539506 journal@recovery recovering @237
+22:19:57.539885 version@stat F·[0 1] S·114KiB[0B 114KiB] Sc·[0.00 0.00]
+22:19:57.585472 db@janitor F·3 G·0
+22:19:57.585504 db@open done T·46.5125ms
+22:19:57.681694 db@close closing
+22:19:57.681949 db@close done T·248.584µs
+=============== Dec 17, 2021 (PST) ===============
+22:19:57.694417 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:19:57.695310 version@stat F·[0 1] S·114KiB[0B 114KiB] Sc·[0.00 0.00]
+22:19:57.695332 db@open opening
+22:19:57.695389 journal@recovery F·1
+22:19:57.695683 journal@recovery recovering @240
+22:19:57.716858 memdb@flush created L0@242 N·13 S·4KiB "C15..deb,v594":"xFP..ff1,v596"
+22:19:57.717098 version@stat F·[1 1] S·118KiB[4KiB 114KiB] Sc·[0.25 0.00]
+22:19:57.759759 db@janitor F·4 G·0
+22:19:57.759787 db@open done T·64.4425ms
+22:19:57.761750 db@close closing
+22:19:57.761928 db@close done T·177.125µs
+=============== Dec 17, 2021 (PST) ===============
+22:19:57.772882 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:19:57.773613 version@stat F·[1 1] S·118KiB[4KiB 114KiB] Sc·[0.25 0.00]
+22:19:57.773639 db@open opening
+22:19:57.773724 journal@recovery F·1
+22:19:57.774099 journal@recovery recovering @243
+22:19:57.794456 memdb@flush created L0@245 N·2 S·2KiB "Eb9..29f,v604":"Sb9..29f,v603"
+22:19:57.794636 version@stat F·[2 1] S·120KiB[6KiB 114KiB] Sc·[0.50 0.00]
+22:19:57.836494 db@janitor F·5 G·0
+22:19:57.836530 db@open done T·62.878ms
+22:19:58.114654 table@compaction L0·2 -> L1·1 S·120KiB Q·607
+22:19:58.140802 table@build created L1@248 N·490 S·118KiB "C02..deb,v88":"xFP..a39,v310"
+22:19:58.140864 version@stat F·[0 1] S·118KiB[0B 118KiB] Sc·[0.00 0.00]
+22:19:58.180040 table@compaction committed F-2 S-2KiB Ke·0 D·3 T·65.352416ms
+22:19:58.183656 table@remove removed @245
+22:19:58.195791 table@remove removed @242
+22:19:58.196131 table@remove removed @239
+22:19:58.214745 db@close closing
+22:19:58.214853 db@close done T·107.417µs
