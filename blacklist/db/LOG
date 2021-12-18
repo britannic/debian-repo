@@ -872,3 +872,49 @@
 22:09:01.015040 db@open done T·62.519375ms
 22:09:01.186544 db@close closing
 22:09:01.186622 db@close done T·78.167µs
+=============== Dec 17, 2021 (PST) ===============
+22:09:32.607826 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:09:32.608718 version@stat F·[3] S·104KiB[104KiB] Sc·[0.75]
+22:09:32.608746 db@open opening
+22:09:32.608811 journal@recovery F·1
+22:09:32.609190 journal@recovery recovering @179
+22:09:32.609700 version@stat F·[3] S·104KiB[104KiB] Sc·[0.75]
+22:09:32.655188 db@janitor F·5 G·0
+22:09:32.655222 db@open done T·46.463125ms
+22:09:32.706720 db@close closing
+22:09:32.706875 db@close done T·153.458µs
+=============== Dec 17, 2021 (PST) ===============
+22:09:32.721052 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:09:32.722222 version@stat F·[3] S·104KiB[104KiB] Sc·[0.75]
+22:09:32.722255 db@open opening
+22:09:32.722327 journal@recovery F·1
+22:09:32.722779 journal@recovery recovering @181
+22:09:32.743373 memdb@flush created L0@183 N·2 S·603B "xEP..9b4,v550":"xEP..55d,v551"
+22:09:32.744483 version@stat F·[4] S·104KiB[104KiB] Sc·[1.00]
+22:09:32.787600 db@janitor F·6 G·0
+22:09:32.787648 db@open done T·65.379667ms
+22:09:32.787672 table@compaction L0·4 -> L1·0 S·104KiB Q·552
+22:09:32.790952 db@close closing
+22:09:32.811867 table@build created L1@186 N·466 S·103KiB "C02..deb,v88":"xFP..a39,v310"
+22:09:32.811904 table@build exiting
+22:09:32.811915 table@build revert @186
+22:09:32.813288 db@close done T·22.334333ms
+=============== Dec 17, 2021 (PST) ===============
+22:09:32.826198 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:09:32.827298 version@stat F·[4] S·104KiB[104KiB] Sc·[1.00]
+22:09:32.827357 db@open opening
+22:09:32.827506 journal@recovery F·1
+22:09:32.827943 journal@recovery recovering @184
+22:09:32.828376 version@stat F·[4] S·104KiB[104KiB] Sc·[1.00]
+22:09:32.869382 db@janitor F·6 G·0
+22:09:32.869418 db@open done T·42.048333ms
+22:09:32.869446 table@compaction L0·4 -> L1·0 S·104KiB Q·552
+22:09:32.914828 table@build created L1@188 N·466 S·103KiB "C02..deb,v88":"xFP..a39,v310"
+22:09:32.914981 version@stat F·[0 1] S·103KiB[0B 103KiB] Sc·[0.00 0.00]
+22:09:32.970251 table@compaction committed F-3 S-1KiB Ke·0 D·4 T·96.968542ms
+22:09:32.971644 table@remove removed @183
+22:09:32.971803 table@remove removed @178
+22:09:32.971933 table@remove removed @175
+22:09:32.972094 table@remove removed @168
+22:09:33.064543 db@close closing
+22:09:33.064627 db@close done T·82.916µs
