@@ -435,3 +435,37 @@
 19:06:54.930366 db@open done T·41.900125ms
 19:06:55.137298 db@close closing
 19:06:55.137370 db@close done T·71.708µs
+=============== Dec 18, 2021 (PST) ===============
+19:07:10.292760 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:07:10.293524 version@stat F·[2 1] S·84KiB[1KiB 83KiB] Sc·[0.50 0.00]
+19:07:10.293545 db@open opening
+19:07:10.293613 journal@recovery F·1
+19:07:10.293975 journal@recovery recovering @89
+19:07:10.294535 version@stat F·[2 1] S·84KiB[1KiB 83KiB] Sc·[0.50 0.00]
+19:07:10.334628 db@janitor F·5 G·0
+19:07:10.334669 db@open done T·41.11075ms
+19:07:10.381068 db@close closing
+19:07:10.381196 db@close done T·126.25µs
+=============== Dec 18, 2021 (PST) ===============
+19:07:10.394689 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:07:10.395897 version@stat F·[2 1] S·84KiB[1KiB 83KiB] Sc·[0.50 0.00]
+19:07:10.395938 db@open opening
+19:07:10.396020 journal@recovery F·1
+19:07:10.396340 journal@recovery recovering @91
+19:07:10.416162 memdb@flush created L0@93 N·2 S·593B "xEP..0aa,v437":"xEP..1ef,v438"
+19:07:10.416458 version@stat F·[3 1] S·85KiB[2KiB 83KiB] Sc·[0.75 0.00]
+19:07:10.456095 db@janitor F·6 G·0
+19:07:10.456423 db@open done T·60.472542ms
+19:07:10.459025 db@close closing
+19:07:10.459137 db@close done T·111.875µs
+=============== Dec 18, 2021 (PST) ===============
+19:07:10.472466 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+19:07:10.473171 version@stat F·[3 1] S·85KiB[2KiB 83KiB] Sc·[0.75 0.00]
+19:07:10.473196 db@open opening
+19:07:10.473252 journal@recovery F·1
+19:07:10.473551 journal@recovery recovering @94
+19:07:10.474080 version@stat F·[3 1] S·85KiB[2KiB 83KiB] Sc·[0.75 0.00]
+19:07:10.513982 db@janitor F·6 G·0
+19:07:10.514019 db@open done T·40.808ms
+19:07:10.878259 db@close closing
+19:07:10.878390 db@close done T·130.833µs
