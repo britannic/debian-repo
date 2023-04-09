@@ -1,5 +1,6 @@
 Origin: . stretch
 Label: . stretch
 Archive: stretch
+Suite: stretch
 Architecture: mips
 Component: main
